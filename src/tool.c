@@ -35,7 +35,9 @@ static const char *STUDENT_SENTENCES[] = {
     "Y'aura un deuxieme BTTF ?",
     "J'ai un bug que j'arrive pas à résoudre, c'est urgent",
     "J'ai une question ?",
-    "Super ! J’ai créé une branche."
+    "Super ! J’ai créé une branche.",
+    "Hello World",
+    "Test test"
 };
 
 const char *get_sentence(size_t index)
