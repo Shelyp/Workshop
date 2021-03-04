@@ -9,7 +9,7 @@
 
 #include "tek.h"
 
-Test(FUNCTIONAL_TEST, this_sould_conflict)
+Test(FUNCTIONAL_TEST, test_test)
 {
     cr_assert_str_not_empty(get_sentence(0));
 }
